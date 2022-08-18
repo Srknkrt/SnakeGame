@@ -4,11 +4,8 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Wall
   - SnakeHead
-  - EnemySnake
-  - Food
-  - SnakeBody
+  - Wall
   layers:
   - Default
   - TransparentFX
@@ -43,6 +40,15 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 2159460279
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 2935153677
+    locked: 0
+  - name: Over
+    uniqueID: 3139302199
     locked: 0
